@@ -1,0 +1,26 @@
+# Apollo
+
+> Apollo is an Islamabad systems integrator founded in 1993. It designs, integrates and supports airport, telecom, government and AI systems, with partners SITA, ATERMES, SpideRadio and Radio Innovation and its own platforms InsightX and Sector Fusion.
+
+## Company
+- Founded: 1993, Islamabad, Pakistan
+- Head office: 5th Floor, Royal Plaza, 30 East, Blue Area, Islamabad, Pakistan
+- Contact: info@apollo.com.pk · +92 51 84 99 999 · Monday to Friday, 9:00–18:00 PKT
+- Industries: aviation, telecom operators, AI, GovTech & RevTech, IT & security, banking & enterprise
+- Own platforms: Northern Technik Aviation Platform, PharmaCloud ERP, HR & Attendance, Sector Fusion, SAM-X, InsightX, Trained AI Chatbot, Fleet Management
+- Technology partners: SITA, ATERMES, SpideRadio, Radio Innovation
+
+## Pages
+- [Home](https://yoxai.github.io/apollo/)
+- [Aviation](https://yoxai.github.io/apollo/aviation/)
+- [SITA](https://yoxai.github.io/apollo/aviation/sita/)
+- [ATERMES](https://yoxai.github.io/apollo/aviation/atermes/)
+- [InsightX](https://yoxai.github.io/apollo/aviation/insightx/)
+- [Telecom](https://yoxai.github.io/apollo/telecom/)
+- [SpideRadio](https://yoxai.github.io/apollo/telecom/spideradio/)
+- [Radio Innovation](https://yoxai.github.io/apollo/telecom/radio-innovation/)
+- [Sector Fusion](https://yoxai.github.io/apollo/telecom/sector-fusion/)
+- [PracticalHost](https://yoxai.github.io/apollo/products/practicalhost/)
+- [All solutions](https://yoxai.github.io/apollo/solutions/)
+- [Company](https://yoxai.github.io/apollo/company/)
+- [Contact](https://yoxai.github.io/apollo/contact/)

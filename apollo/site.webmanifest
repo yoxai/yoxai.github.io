@@ -1,0 +1,15 @@
+{
+  "name": "Apollo",
+  "short_name": "Apollo",
+  "start_url": "/apollo/",
+  "display": "standalone",
+  "background_color": "#03050a",
+  "theme_color": "#03050a",
+  "icons": [
+    {
+      "src": "/apollo/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
